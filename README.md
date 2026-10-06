@@ -1,31 +1,37 @@
-### Michael Cervera Cobeñas — Líder Técnico · Lima, Perú
+### Hola, soy Michael 👋
 
-**Construyo software que sigue en producción.** Dirijo plataformas que siguen funcionando cuando yo no estoy.
+**Lead Full Stack Developer** · Lima, Perú
 
-Mi trabajo no es escribir más código: es dejar criterio escrito, estándares que se sostienen solos
-y equipos que no dependen de que yo esté en la sala.
+Construyo plataformas empresariales desde 2016: de la arquitectura y el desarrollo a la puesta en
+producción y su operación en la nube.
 
-**Hoy**
-- Líder técnico en **CELSA**: suite corporativa modular con microfrontends (Module Federation), un solo login
-  (Keycloak / OIDC), despliegues sin llaves de servicio (Workload Identity Federation), un Design System propio
-  que consumen más de quince aplicaciones y una capa de IA en producción.
-- Socio y director técnico en **[StudioXperto](https://www.studioxperto.com)** desde 2019.
+**En qué trabajo**
+- Portales de microfrontends (Angular + Native Federation) con más de 15 módulos que se despliegan por separado.
+- Un Design System propio, publicado como paquete versionado, que usan 17 aplicaciones.
+- Inicio de sesión único con Keycloak / OIDC para usuarios internos, clientes y proveedores.
+- CI/CD de más de 20 repositorios hacia Google Cloud Run, sin llaves de servicio (Workload Identity Federation).
+- IA en producción: agentes con herramientas que respetan los permisos de cada usuario, RAG, memoria por usuario
+  y el costo de cada consulta medido.
+- Como producto propio, un CRM y suite de marketing multi-tenant que usa una decena de empresas.
 
-**Lo que hago bien**
-- Arquitectura de plataformas y decisiones técnicas documentadas (ADR)
-- Dirección de equipos técnicos, revisión de código y estándares de trabajo
-- Google Cloud (Cloud Run, Cloud SQL), CI/CD, observabilidad y control de costos
-- IA aplicada: agentes con herramientas sobre la fuente de verdad, RAG, memoria por usuario, telemetría
+**Especialidades**
+- **Arquitectura:** microfrontends, microservicios, Clean Architecture, APIs REST
+- **Frontend:** Angular, Vue / Nuxt, React
+- **Backend:** Node.js, .NET, Laravel
+- **Datos:** PostgreSQL, MongoDB, Redis, BigQuery
+- **Cloud y DevOps:** Google Cloud, Docker, GitHub Actions, GitLab CI
+- **IA:** Vertex AI, Gemini, Claude, agentes con herramientas, RAG
+- **Integraciones:** SAP Business One, WhatsApp Business, Meta, Google Workspace
 
-**Stack:** .NET (C#) · TypeScript · Angular · Vue / Nuxt · Node.js · Python · PostgreSQL · SQL Server · Docker · Ionic
-
-**En producción, para abrir ahora:**
-[sursagas.com](https://sursagas.com) ·
+**Sitios en producción que construí:**
 [serviequiposperu.com](https://serviequiposperu.com) ·
 [hotelvistaverde.com.pe](https://www.hotelvistaverde.com.pe) ·
-[Zappyn](https://www.zappyn.com)
+[zappyn.com](https://www.zappyn.com) ·
+[sursagas.com](http://sursagas.com)
 
-📄 [Portafolio, blog y CV](https://cm7chael.github.io/?ref=github) ·
+Los repos de 2015 a 2020 los dejo a propósito: ahí empecé.
+
+📄 [Portafolio, blog y CV](https://cm7chael.github.io/portafolio/?ref=github) ·
 💼 [LinkedIn](https://www.linkedin.com/in/cm7chael/) ·
 ✉️ cm7chael@gmail.com
 
