@@ -23,6 +23,9 @@ producción y su operación en la nube.
 - **IA:** Vertex AI, Gemini, Claude, agentes con herramientas, RAG
 - **Integraciones:** SAP Business One, WhatsApp Business, Meta, Google Workspace
 
+**Para que lo uses:** [adr-plantilla](https://github.com/CM7CHAEL/adr-plantilla), una plantilla con Docusaurus
+para registrar las decisiones de arquitectura de tu equipo ([demo](https://cm7chael.github.io/adr-plantilla/)).
+
 **Sitios en producción que construí:**
 [serviequiposperu.com](https://serviequiposperu.com) ·
 [hotelvistaverde.com.pe](https://www.hotelvistaverde.com.pe) ·
